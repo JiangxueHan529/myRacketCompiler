@@ -1,0 +1,3 @@
+extern std::ostream &trace;
+extern std::ostream &prompt;
+// extern std::ostream &debug;  // could separate these if we had a reason to do so...
